@@ -3,7 +3,7 @@
 </div>
 
 # Awesome-Physical-Security-Software
-## Top Physical Security Software Tools Ecosystem
+## 🛡️ Top Physical Security Software Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Video Surveillance, Access Control & Physical Security Management*  
@@ -17,15 +17,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📑 Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS Products
+## ☁️ SaaS Products
 
-### Core Platforms (Physical Security Software)
+### 🏢 Core Platforms (Physical Security Software)
 
 | Product | Description | Pricing | Free Tier Limit | Company Size |
 | :--- | :--- | :--- | :--- | :--- |
@@ -40,9 +40,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Coram AI](https://coram.ai/)** | Intelligent video analytics platform focused on proactive threat detection. | Custom Quote | None (15-day free trial) | $50 Million (Valuation) |
 | **[FacilityOS](https://facilityos.com/)** | Integrated physical security and facility management platform with AI capabilities. | Custom Quote | None | $10 Million (Valuation) |
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
-### Dedicated Physical Security & Surveillance Tools
+### 🎥 Dedicated Physical Security & Surveillance Tools
 
 - **[Home Assistant](https://github.com/home-assistant/core)** [![GitHub stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers)  
   Popular open-source home automation platform with robust physical security and camera support.
@@ -75,7 +75,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
   Modern open-source CCTV/NVR solution with a clean interface and plugin support.
 
 
-### Additional Strong Open-Source Options
+### 🛠️ Additional Strong Open-Source Options
 
 - **[Zoneminder AI Add-ons** and community forks with local LLM integration.
 - **[Frigate + Double Take** for advanced face recognition.
@@ -86,7 +86,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **ZoneMinder**, **Frigate**, **Shinobi**, and **CodeProject.AI** with **Home Assistant** and **OSSEC** for a complete open-source physical security stack.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -95,7 +95,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Physical security systems must comply with local laws and privacy regulations.
