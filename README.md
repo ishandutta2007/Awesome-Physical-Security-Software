@@ -40,35 +40,36 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Physical Security & Surveillance Tools
 
-- **[ZoneMinder](https://github.com/ZoneMinder/zoneminder)**  
-  The most popular open-source video surveillance software with AI integration capabilities and support for hundreds of cameras.
-
-- **[Frigate](https://github.com/blakeblackshear/frigate)**  
-  Highly efficient open-source NVR with real-time object detection using local AI models.
-
-- **[Shinobi](https://github.com/ShinobiCCTV/Shinobi)**  
-  Modern open-source CCTV/NVR solution with a clean interface and plugin support.
-
-- **[Kerberos.io](https://github.com/kerberos-io/kerberos)**  
-  Open-source video surveillance platform with edge computing and AI detection.
-
-- **[iSpy](https://github.com/ispysoftware/iSpy)**  
-  Open-source surveillance software with powerful motion detection and AI features.
-
-- **[Motion](https://github.com/Motion-Project/motion)**  
-  Lightweight open-source motion detection tool that can be extended with AI for smarter alerts.
-
-- **[DeepStack](https://github.com/johnolafenwa/DeepStack)**  
-  Open-source AI server for object detection that integrates with surveillance systems.
-
-- **[CodeProject.AI Server](https://github.com/codeproject/CodeProject.AI-Server)**  
-  Open-source AI server with modules for face recognition, object detection, and security use cases.
-
-- **[Home Assistant](https://github.com/home-assistant/core)** with security integrations  
+- **[Home Assistant](https://github.com/home-assistant/core)** [![GitHub stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers)  
   Popular open-source home automation platform with robust physical security and camera support.
 
-- **[OSSEC](https://github.com/ossec/ossec-hids)**  
+- **[frigate](https://github.com/blakeblackshear/frigate)** [![GitHub stars](https://img.shields.io/github/stars/blakeblackshear/frigate?style=social&color=white)](https://github.com/blakeblackshear/frigate/stargazers)  
+  Highly efficient open-source NVR with real-time object detection using local AI models.
+
+- **[zoneminder](https://github.com/ZoneMinder/zoneminder)** [![GitHub stars](https://img.shields.io/github/stars/ZoneMinder/zoneminder?style=social&color=white)](https://github.com/ZoneMinder/zoneminder/stargazers)  
+  The most popular open-source video surveillance software with AI integration capabilities and support for hundreds of cameras.
+
+- **[OSSEC](https://github.com/ossec/ossec-hids)** [![GitHub stars](https://img.shields.io/github/stars/ossec/ossec-hids?style=social&color=white)](https://github.com/ossec/ossec-hids/stargazers)  
   Open-source host-based intrusion detection system for physical security monitoring.
+
+- **[motion](https://github.com/Motion-Project/motion)** [![GitHub stars](https://img.shields.io/github/stars/Motion-Project/motion?style=social&color=white)](https://github.com/Motion-Project/motion/stargazers)  
+  Lightweight open-source motion detection tool that can be extended with AI for smarter alerts.
+
+- **[iSpy](https://github.com/ispysoftware/iSpy)** [![GitHub stars](https://img.shields.io/github/stars/ispysoftware/iSpy?style=social&color=white)](https://github.com/ispysoftware/iSpy/stargazers)  
+  Open-source surveillance software with powerful motion detection and AI features.
+
+- **[kerberos](https://github.com/kerberos-io/kerberos)** [![GitHub stars](https://img.shields.io/github/stars/kerberos-io/kerberos?style=social&color=white)](https://github.com/kerberos-io/kerberos/stargazers)  
+  Open-source video surveillance platform with edge computing and AI detection.
+
+- **[CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server)** [![GitHub stars](https://img.shields.io/github/stars/codeproject/CodeProject.AI-Server?style=social&color=white)](https://github.com/codeproject/CodeProject.AI-Server/stargazers)  
+  Open-source AI server with modules for face recognition, object detection, and security use cases.
+
+- **[DeepStack](https://github.com/johnolafenwa/DeepStack)** [![GitHub stars](https://img.shields.io/github/stars/johnolafenwa/DeepStack?style=social&color=white)](https://github.com/johnolafenwa/DeepStack/stargazers)  
+  Open-source AI server for object detection that integrates with surveillance systems.
+
+- **[Shinobi](https://github.com/ShinobiCCTV/Shinobi)** [![GitHub stars](https://img.shields.io/github/stars/ShinobiCCTV/Shinobi?style=social&color=white)](https://github.com/ShinobiCCTV/Shinobi/stargazers)  
+  Modern open-source CCTV/NVR solution with a clean interface and plugin support.
+
 
 ### Additional Strong Open-Source Options
 
