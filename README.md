@@ -1,3 +1,7 @@
+<!--
+  Keywords: Physical Security, Video Surveillance, Access Control, SaaS, Open Source, NVR, CCTV, AI Security, Intrusion Detection, Facility Management
+  Description: A curated list of top SaaS products and open-source GitHub projects for physical security, video surveillance, and access control.
+-->
 <div align="center">
   <img src="assets/banner.svg" alt="Awesome Physical Security Banner" />
 </div>
