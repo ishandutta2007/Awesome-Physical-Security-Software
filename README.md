@@ -114,3 +114,15 @@ Star the repo if you find it useful!
 **Made for security professionals, facility managers, IT teams, and open-source enthusiasts.**  
 Let's make physical security more intelligent, private, and accessible.
 
+
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Physical-Security-Software&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Physical-Security-Software&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Physical-Security-Software&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Physical-Security-Software&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
