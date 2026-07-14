@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Physical Security Banner" />
+</div>
+
 # Awesome-Physical-Security-Software
 ## Top Physical Security Software Tools Ecosystem
 
