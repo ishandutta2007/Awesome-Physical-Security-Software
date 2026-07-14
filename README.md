@@ -23,18 +23,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Physical Security Software)
 
-| Product | Description | Pricing | Free Tier Limit |
-| :--- | :--- | :--- | :--- |
-| **[Rhombus](https://rhombus.com/)** | AI-native video surveillance and security platform with advanced analytics and cloud management. | Custom Quote | None |
-| **[FacilityOS](https://facilityos.com/)** | Integrated physical security and facility management platform with AI capabilities. | Custom Quote | None |
-| **[Coram AI](https://coram.ai/)** | Intelligent video analytics platform focused on proactive threat detection. | Custom Quote | None |
-| **[Resolver](https://resolver.com/)** | Risk and security management platform with physical security modules. | Custom Quote | None |
-| **[Kastle](https://kastle.com/)** | Modern access control and visitor management system with strong security features. | Custom Quote | None |
-| **[Verkada](https://verkada.com/)** | All-in-one cloud-based security platform with cameras and access control. | Custom Quote | None |
-| **[Solink](https://www.solink.com/)** | AI-powered video surveillance and business intelligence platform. | Custom Quote | None |
-| **[Genea Security](https://www.genea.com/)** | Cloud-based access control and physical security management system. | Custom Quote | None |
-| **[XProtect](https://www.milestonesys.com/)** | Milestone’s video management software with extensive integration capabilities. | Custom Quote | None |
-| **[Flashpoint](https://flashpoint.io/)** | Threat intelligence and physical security risk management platform. | Custom Quote | None |
+| Product | Description | Pricing | Free Tier Limit | Company Size |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Verkada](https://verkada.com/)** | All-in-one cloud-based security platform with cameras and access control. | Custom Quote | None (30-day free trial) | $3.5 Billion (Valuation) |
+| **[Flashpoint](https://flashpoint.io/)** | Threat intelligence and physical security risk management platform. | Custom Quote | None | $500 Million (Valuation) |
+| **[Kastle](https://kastle.com/)** | Modern access control and visitor management system with strong security features. | Custom Quote | None | $500 Million (Revenue) |
+| **[Solink](https://www.solink.com/)** | AI-powered video surveillance and business intelligence platform. | Custom Quote | None | $400 Million (Valuation) |
+| **[XProtect](https://www.milestonesys.com/)** | Milestone’s video management software with extensive integration capabilities. | Custom Quote | None | $160 Million (Revenue) |
+| **[Rhombus](https://rhombus.com/)** | AI-native video surveillance and security platform with advanced analytics and cloud management. | Custom Quote | None (14-day free trial) | $100 Million (Valuation) |
+| **[Genea Security](https://www.genea.com/)** | Cloud-based access control and physical security management system. | Custom Quote | None | $100 Million (Valuation) |
+| **[Resolver](https://resolver.com/)** | Risk and security management platform with physical security modules. | Custom Quote | None | Acquired by Kroll |
+| **[Coram AI](https://coram.ai/)** | Intelligent video analytics platform focused on proactive threat detection. | Custom Quote | None (15-day free trial) | $50 Million (Valuation) |
+| **[FacilityOS](https://facilityos.com/)** | Integrated physical security and facility management platform with AI capabilities. | Custom Quote | None | $10 Million (Valuation) |
 
 ## Open-Source GitHub Projects
 
